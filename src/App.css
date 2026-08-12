@@ -1,0 +1,35 @@
+body{
+     
+     background-color: #e274ad;
+     
+     
+  
+
+}
+#main{
+     text-align: center;
+     color: #9252bf;
+     width: 100%;
+     text-align: center;
+   
+    
+    background-color: #ffff;
+}
+.info{
+    background: #866464;
+    padding: 5%;
+    margin: 20px;
+    color: #f9e4e4;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+.info:hover{
+    background-color: #647586;
+    
+    
+}
+.info:active{
+    background-color: #485e35;
+    
+    
+}
